@@ -1,0 +1,18 @@
+﻿
+@{
+}
+
+@model List<Project>
+<h1>The Water Project</h1>
+
+@foreach (Project p in Model)
+            {
+                <h3>@p.ProjectName</h3>
+                <ul>
+                    <li>Type: @p.ProjectType</li>
+                    <li>Program: @p.ProjectRegionalProgram</li>
+                    <li>Impact: @p.ProjectImpact individuals served</li>
+                    <li>Project Phase: @p.ProjectPhase</li>
+                    <li>Functionality Status: @p.ProjectFunctionalityStatus</li>
+                </ul>
+            }
