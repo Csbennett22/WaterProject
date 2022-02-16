@@ -13,14 +13,21 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
-#line 2 "C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\Views\_ViewImports.cshtml"
+#line 3 "C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\Views\_ViewImports.cshtml"
 using WaterProject.Models;
 
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 4 "C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\Views\_ViewImports.cshtml"
+using WaterProject.Models.ViewModels;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7091c65830b0329e613be026ede8a57552863778", @"/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"c86a7df8465d01f5db3cdfeb7d4904f874a80613", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"74fbba971e219913af0ca12b2a528ed9691b7f34", @"/Views/_ViewImports.cshtml")]
     public class Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998
