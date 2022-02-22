@@ -5,22 +5,16 @@
 
 @model ProjectsViewModel
 @*<h1>@ViewBag.Calc</h1>*@
-<h1>The Water Project</h1>
 
 @foreach (Project p in Model.Projects)
 {
-    <h3>@p.ProjectName</h3>
-    <ul>
-        <li>Type: @p.ProjectType</li>
-        <li>Program: @p.ProjectRegionalProgram</li>
-        <li>Impact: @p.ProjectImpact individuals served</li>
-        <li>Project Phase: @p.ProjectPhase</li>
-        <li>Functionality Status: @p.ProjectFunctionalityStatus</li>
-    </ul>
+    <partial name="ProjectSummary" model="p" />
 }
 
-<a asp-action="Index" asp-route-pageNum="1">1</a>
-<a asp-action="Index" asp-route-pageNum="2">2</a>
-<a asp-action="Index" asp-route-pageNum="3">3</a>
+@*<a asp-action="Index" asp-route-pageNum="1">1</a>
+    <a asp-action="Index" asp-route-pageNum="2">2</a>
+    <a asp-action="Index" asp-route-pageNum="3">3</a>*@
 
-<div page-blah="@Model.PageInfo" page-action="Index"></div>
+<div page-blah="@Model.PageInfo" page-action="Index" page-class="btn"
+     page-class-normal="btn-outline-dark" page-class-selected="btn-primary" page-classes-enabled="true"
+     class="btn-group pull-right m-1"></div>

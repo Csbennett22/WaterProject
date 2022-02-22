@@ -52,6 +52,11 @@ namespace WaterProject
 
             app.UseEndpoints(endpoints =>
             {
+                endpoints.MapControllerRoute(
+                    name: "Paging",
+                    pattern: "{pageNum}", // this is where you can specify what the url says i.e. page, pg, P etc.
+                    defaults: new { Controller = "Home", action = "Index" });
+                //won't run the other endpoint since it has another one first
                 endpoints.MapDefaultControllerRoute();
             });
         }
