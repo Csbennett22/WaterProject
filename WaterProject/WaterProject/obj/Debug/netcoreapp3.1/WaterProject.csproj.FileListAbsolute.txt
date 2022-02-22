@@ -76,3 +76,8 @@ C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\bin\Debug\
 C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\bin\Debug\netcoreapp3.1\libman.json
 C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProjectSummary.cshtml.g.cs
+C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Types\Default.cshtml.g.cs
+C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\obj\Debug\netcoreapp3.1\Razor\Pages\Donate.cshtml.g.cs
+C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\obj\Debug\netcoreapp3.1\Razor\Pages\_DonateLayout.cshtml.g.cs
+C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
