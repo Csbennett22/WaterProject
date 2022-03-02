@@ -81,3 +81,5 @@ C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\obj\Debug\
 C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\obj\Debug\netcoreapp3.1\Razor\Pages\_DonateLayout.cshtml.g.cs
 C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
 C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\obj\Debug\netcoreapp3.1\Razor\Views\Donation\Checkout.cshtml.g.cs
+C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\obj\Debug\netcoreapp3.1\Razor\Pages\DonationCompleted.cshtml.g.cs
