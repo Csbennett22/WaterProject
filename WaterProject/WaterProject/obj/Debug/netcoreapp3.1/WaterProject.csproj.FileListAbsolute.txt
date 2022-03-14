@@ -103,3 +103,9 @@ C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\obj\Debug\
 C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Details.razor.g.cs
 C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Editor.razor.g.cs
 C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Editor.razor.g.cs
+C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\chris\Documents\IS413\WaterProject\WaterProject\WaterProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
